@@ -1,0 +1,20 @@
+:root {
+    --primeri-text-color:#000000
+}
+body {
+    background-color: E5E5E5;
+    color: 757575;
+}
+.site-nav a {
+    color: #000000;}
+    .site-nav a:hover {
+        color: orange;
+    }
+    .site-nav a:active {
+        color: teal;
+    }
+       .page-header {background-color: yellow;}
+       .text {color: rgb(67, 71, 109);}
+       .text-1 {background-color: wheat;}
+       .zagolovok {color: FFFFFF;}
+       .h1 {color: white;}
